@@ -5,7 +5,7 @@
 - 📫 How to reach me?
   + Email: letronghoang00@gmail.com
   + [Facebook](https://www.facebook.com/lthoangg)
-  + [Instagram](https://www.instagram/lthoangg)
+  + [Instagram](https://www.instagram.com/lthoangg)
   + [My website](https://www.lthoangg.tk)
 
 <!---
