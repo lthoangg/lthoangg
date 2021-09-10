@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lthoangg
 - 👀 I’m interested in Data Science, Data Engineer, Chatbot, AI
-- 🌱 I’m currently working at FTech as a AI ngineer
+- 🌱 I’m currently working at FTech as a AI Engineer
 - 💞️ I’m looking to collaborate on any fun projects
 - 📫 How to reach me?
   + Email: letronghoang00@gmail.com
