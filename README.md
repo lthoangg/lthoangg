@@ -7,6 +7,7 @@
   + [Facebook](https://www.facebook.com/lthoangg)
   + [Instagram](https://www.instagram.com/lthoangg)
   + [My website](https://www.lthoangg.tk)
+  + [LinkedIn](https://www.linkedin.com/in/lthoangg/)
 
 <!---
 lthoangg/lthoangg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
