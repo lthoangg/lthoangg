@@ -3,7 +3,7 @@
 - 🌱 I’m currently working at FTech as an AI Engineer
 - 💞️ I’m looking to collaborate on any fun projects
 - 📫 How to reach me?
-  + [Email](letronghoang00@gmail.com)
+  + letronghoang00@gmail.com
   + [Facebook](https://www.facebook.com/lthoangg)
   + [Instagram](https://www.instagram.com/lthoangg)
   + [My website](https://www.lthoangg.tk)
