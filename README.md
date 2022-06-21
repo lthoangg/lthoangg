@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lthoangg
-- 👀 I’m interested in Data Science, Data Engineering, AI and even web development
+- 👀 I’m interested in Data Science, Data Engineering, AI and also software development
 - 🌱 I’m currently working as a Data Engineer
 - 💞️ I’m looking to collaborate on any fun projects
 - 📫 How to reach me?
